@@ -8,7 +8,7 @@ Commit      : unknown
 Message     : 
 Author      : 
 Committed   : 
-Checked     : 2026-10-19 00:16:18 CDT
+Checked     : 2026-10-19 08:58:47 CDT
 Python      : 3.14.7
 
 ================================================================
@@ -46,7 +46,7 @@ POINTS FROM check.py: 40 / 40
 ================================================================
 PROGRAM OUTPUT  (typed: 14601, 15, 1, 2, 3, 4, 5, Q)
 ================================================================
-What is your cost of college for one year? How many credits are you taking this semester? THE COST OF COLLEGE:
+What is your cost of college for one year? $How many credits are you taking this semester? THE COST OF COLLEGE:
 1 Cost Per Semester
 2 Cost Per Month
 3 Cost Per Class Day

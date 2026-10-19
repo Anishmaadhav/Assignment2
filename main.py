@@ -52,7 +52,7 @@ def cost_per_professor(annual_cost, num_professors):
 # ---- PROGRAM ----
 
 def main():
-    annual_cost = float(input("What is your cost of college for one year? "))
+    annual_cost = float(input("What is your cost of college for one year? $"))
     credits = int(input("How many credits are you taking this semester? "))
     while True:
         print("THE COST OF COLLEGE:")
