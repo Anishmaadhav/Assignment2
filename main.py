@@ -45,7 +45,7 @@ def cost_per_class(annual_cost, credits):
 
 def cost_per_professor(annual_cost, num_professors):
     """Give back what the cost is for per professor"""
-    return annual_cost / num_professors
+    return cost_per_semester(annual_cost) / num_professors
     
 
 
@@ -61,7 +61,7 @@ def main():
         print("3 Cost Per Class Day")
         print("4 Cost Per Credit")
         print("5 Cost Per CS1430 Class")
-        print("6 Cost Per Professor")
+        print("6 How much does each professor cost me this semester?")
         print("Q Quit")
         choice = input("Choose an option: ")
         if choice == "Q":
